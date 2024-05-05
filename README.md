@@ -17,7 +17,7 @@ This is a simple implementation of the classic game Hangman using C language. Th
 - Clone the repository or download the ZIP file.
 - Now use the following commands to run the programme-
  ```bash
-     cd Hangman3000
+     cd Hangman_3000
      gcc Hang.c -o Hang
      ./Hang.exe || ./Hang.out (Depending on your operating system)
   ```
