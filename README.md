@@ -44,5 +44,6 @@ Akshita Chaudhary
 
 ## Contact
 - Email: akshitachaudhary.2908@gmail.com
-- GitHub:[GitHub Profile](github.com/Aksh2908)
+- GitHub:[GitHub Profile](www.github.com/aksh2908)
+- Linkedin: [Linkedin Profile](www.linkedin.com/in/akshita-chaudhary-b44122297)
 
